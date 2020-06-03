@@ -305,10 +305,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "_gtHIEF77EeqAUqS1jg0IBQ",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "_liROIEz9EeqpsZC_0r2MSA",
     "version" : "Latest",
     "type" : "property"
@@ -605,49 +601,5 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_FAqFAIWQEeqn5alCOlZ5AQ",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_T7OSIGr9EeqkNZmO_-H_hg",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_FRzB8ITYEeqVmqum08qWWw",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_97rOcGr4EeqkNZmO_-H_hg",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_seDEIIWKEeqn5alCOlZ5AQ",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_1qWzUGsKEeqqIqLOkHSilQ",
-    "version" : "0.1",
-    "type" : "test_case"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_wAKs0ITWEeqVmqum08qWWw",
-    "version" : "0.1",
-    "type" : "test_case"
-  },
-  "relatedItems" : [ {
-    "id" : "_KGE5YGLjEeq4S5DjP4RBoA",
-    "version" : "0.1",
-    "type" : "test_case"
   } ]
 } ]

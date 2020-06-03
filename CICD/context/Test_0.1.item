@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_AD4a0KXCEeq48uqS8kH4gw">
+    <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_AD4a0aXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_AD4a0qXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_AD4a06XCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:B6N6UP3ZPmd8SPRDR+iZCEj2yg87JnVOuhlySQq85bs=" xmi:id="_AD4a1KXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" type="id_String" value="test" xmi:id="_AD4a1aXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_AD4a1qXCEeq48uqS8kH4gw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="DEV" xmi:id="_AD4a16XCEeq48uqS8kH4gw">
+    <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_AD4a2KXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_AD4a2aXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_AD4a2qXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:e764MfryvH7fqwldslJGtwndkubbul4w5jZdzZAMkZE=" xmi:id="_AD4a26XCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" type="id_String" value="test" xmi:id="_AD4a3KXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_AD4a3aXCEeq48uqS8kH4gw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="PROD" xmi:id="_AD4a3qXCEeq48uqS8kH4gw">
+    <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_AD4a36XCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_AD4a4KXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_AD4a4aXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:Xhl/BRaXAJmXD2gbUmn+qM1NfnO6xI5D3xJQ4sZY/4Y=" xmi:id="_AD4a4qXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" type="id_String" value="test" xmi:id="_AD4a46XCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_AD4a5KXCEeq48uqS8kH4gw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="QA" xmi:id="_AD4a5aXCEeq48uqS8kH4gw">
+    <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" type="id_String" value="root" xmi:id="_AD4a5qXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true" xmi:id="_AD4a56XCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" type="id_String" value="localhost" xmi:id="_AD4a6KXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:RcOV4J9Bk0TunV63QyCQLoWud9kgeZzl7jCF1yw0M6k=" xmi:id="_AD4a6aXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" type="id_String" value="test" xmi:id="_AD4a6qXCEeq48uqS8kH4gw"/>
+    <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_AD4a66XCEeq48uqS8kH4gw"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_f3dc804c-c3eb-4425-9fbb-6e50e5528f4a"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>N1GA4oE42hlXaYtWqchwlrNuVql3ejjwbjAilYepsMmqGYal5cJu5C9Qh3qI5d1yl4GgKk+q14pk&#13;
+REnDMDpisw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_4ba77245-b2e9-434e-a86d-0f01e6ff1227"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ih1BXRfxgrZ/878paExSUNHOXIgrRAxxJ6tQOIANE0cIQruDIhjDl9GHfQ3DR2/TaAF8v3EsT+/a&#13;
+b11kwSKSYw==</DigestValue></Reference></SignedInfo><SignatureValue>DiBmdAvobcJv2007xkHGhooZ8XBGE1t5fxG0Rdn7+36HbC/Y5v6sNdaXfvVciwc96MbBuqmZRIh+&#13;
+tV5F6n9IwSNh58m9wSZ0pE6LFW8BWRkEtueIZIn00ywfMvXEbtN2gJi9XZt6QN6yzOHXAFnqdo+Q&#13;
+mGTKhlCV4cV+r98sI2m32WLYembvE0TQtVnxIRiFoKv+OvkSQSJOO2ZDsKLNGSo+2wRypZ0miHoR&#13;
+Zkey0Rks4/BFKcJzVaWtSfAkwlRV3Fsdg1JUxl6i9M1z2ggCf2HKMSTKS5pXd2IRDZaErPc7RWOB&#13;
+Vir3fUXBhQjz9NLg8HxTFhmDFAPCIFi9gE27EA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_4ba77245-b2e9-434e-a86d-0f01e6ff1227" Target="#_f3dc804c-c3eb-4425-9fbb-6e50e5528f4a"><Timestamp>2020-06-03 17:45:23</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

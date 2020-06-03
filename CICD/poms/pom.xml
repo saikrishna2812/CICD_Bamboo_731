@@ -14,7 +14,6 @@
     <module>jobs/process/j02_validation_0.1</module>
     <module>jobs/process/j03_deduplicating_0.1</module>
     <module>jobs/process/j04_stewardship_0.1</module>
-    <module>jobs/process/j01_filetodatabase_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>

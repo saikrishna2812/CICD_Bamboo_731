@@ -1,5 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-06-03T14:14:28.802-0400">
-  <deletedFolders>process/DqTaskCustomer</deletedFolders>
-  <deletedItems id="_wAKs0ITWEeqVmqum08qWWw" path="process/_KGE5YGLjEeq4S5DjP4RBoA" type="TEST_CONTAINER"/>
-</recyclebin:RecycleBin>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin" lastUpdate="2020-06-03T14:14:43.837-0400"/>

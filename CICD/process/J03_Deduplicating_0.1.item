@@ -3,7 +3,7 @@
     <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="root"/>
     <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="localhost"/>
-    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:ITL8DbT6v4ly74W4wir8GvKVarZshMjQHaf5hU3olJk="/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:fokRgvjiTWRh59d4dCXA3LEBTFvqVwZVen8GJdmXetM="/>
     <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="test"/>
     <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="3306"/>
   </context>
@@ -11,7 +11,7 @@
     <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="root"/>
     <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="localhost"/>
-    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:/nq6V9f+liAYH31tlXUNSIVfc/9ziBUvpiGkvyYyqTY="/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:zh9VRqfmAXD0uj6lMQF+9ZWm6SHFUAm8PaiMiJ3z2Js="/>
     <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="test"/>
     <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="3306"/>
   </context>
@@ -19,7 +19,7 @@
     <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="root"/>
     <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="localhost"/>
-    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:ZNGygyndqZS6ffQMaB+akb7n4lCCJss4xZlPNCD1vS8="/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:5ojBRJOWL9dMhwV0p1Vmf2b7LzSZOorZmRsLDB214z4="/>
     <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="test"/>
     <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="3306"/>
   </context>
@@ -66,7 +66,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:w6gTrdKXmPnPdjBr3S197VBJagJxsruTVDpzyFJJ"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:SWhFIyHRgSj/Org9GMiK2dS/ZD8mFz8udPY4SgWv"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -101,7 +101,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:2IY7FZ7PXpTen2EjDIX1NARIxAvbChvxo8lOdRb8"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:nBzCUatwkITQosKMHcCHvbpPQ9UDNBDOxA+hQ25R"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -148,7 +148,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.Test_Database"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
     <elementParameter field="TEXT" name="USER" value="context.Test_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:E2N+czVSkAjjAtL+9lISUS7l+kbaDzHkhYQfTrMPQhiGWPS6BdAchidsUSLxXjrLKQ=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:GxrnY6c2UpoqPj8gOLidZSBIvtvUFG1aNohv7omyII/m1YR0+b9/3QY5i4z7ASUmtQ=="/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" show="false" value="_liROIEz9EeqpsZC_0r2MSA - validcustomers"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;validcustomers&quot;"/>
@@ -611,7 +611,7 @@
       </column>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties shellMaximized="true"/>
+      <uiProperties/>
       <varTables minimized="true" name="Var" sizeState="INTERMEDIATE"/>
       <outputTables name="Uniques" sizeState="INTERMEDIATE">
         <mapperTableEntries expression="row5.FirstName " name="FirstName" nullable="true" type="id_String"/>
@@ -694,7 +694,7 @@
       </column>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties shellMaximized="true"/>
+      <uiProperties/>
       <varTables minimized="true" name="Var" sizeState="INTERMEDIATE"/>
       <outputTables name="out" sizeState="INTERMEDIATE">
         <mapperTableEntries expression="row6.FirstName" name="FirstName" nullable="true" type="id_String"/>
@@ -740,7 +740,7 @@
     <elementParameter field="TEXT" name="PORT" value="context.Test_Port"/>
     <elementParameter field="TEXT" name="DBNAME" value="context.Test_Database"/>
     <elementParameter field="TEXT" name="USER" value="context.Test_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:IEAT4bN+vQOes8JOa0R2I1Y7p6dX7PiDcK9hOWlrTq5U5nLNdGBKC0r+lIGW9x3eXA=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:y01GV7IgI46jBpN6LTBHFvf4iU6ubGxM/4Ozb/f+phdgS0NdEWaWlex67+8pdCsjUQ=="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;CustomersUniqueRecords11&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="CREATE_IF_NOT_EXISTS"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -901,7 +901,7 @@
     <elementParameter field="TEXT" name="PORT" value="context.Test_Port"/>
     <elementParameter field="TEXT" name="DBNAME" value="context.Test_Database"/>
     <elementParameter field="TEXT" name="USER" value="context.Test_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:mwygqFkKFO0cKrvnf8/kLnBh8Lvs5F8xvMRlgX/mV9ginC+BlohkEw3BCsHQLOkKiw=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:iOe56IWlwhae7hBm8CB5s2ZFqkSQVw1Vs7ZKaV16cEZfkW2wkeRkd1432JB01gjIxg=="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;customersmatches11&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="CREATE_IF_NOT_EXISTS"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -1099,7 +1099,7 @@
       </column>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties shellMaximized="true"/>
+      <uiProperties/>
       <varTables minimized="true" name="Var" sizeState="INTERMEDIATE"/>
       <outputTables name="Suspects" sizeState="INTERMEDIATE">
         <mapperTableEntries expression="row9.FirstName" name="FirstName" type="id_String"/>
@@ -1143,7 +1143,7 @@
     <elementParameter field="TEXT" name="PORT" show="false" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:egIZJV0oamYMIG47nQTi2ttgj8ur4Off/rim7B4x"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:nvxt9F99rzSE6UFb+uaSO+hCZH6zwoM3yTz3VC51"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;suspects&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="DROP_IF_EXISTS_AND_CREATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -1304,7 +1304,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.Test_Database"/>
     <elementParameter field="TEXT" name="PROPERTIES" value="context.Test_AdditionalParams"/>
     <elementParameter field="TEXT" name="USER" value="context.Test_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:GpbOJdoTn8SfQT5Zs8zrmuRizYxJOHG6CrMJFtSNMG75yMxpWiAfHzRGnYQT5gTxpQ=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:HpKr1mowMCWqDNZmckhW+iUmgjVqIx1B76ltqiLmKg1VBv0awh/JdrOk6UVmk1zfRQ=="/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="USE_SHARED_CONNECTION" value="false"/>
@@ -1524,13 +1524,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_c1f08e1a-275b-44a9-b7ed-ac8134dc8beb"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ZK1BWFPl3PhCu/fEVoYalxNtYUcvsTOPKNVxBa/z3yr3z0QjBz6kwMOQB0OrQH1NFKK8WM/HU+Ns&#13;
-Yg1bI56j3w==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_df7ae820-223c-48a8-8c03-88cd9a080194"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ViGAOMIaIAkgJxhkDJZxJfaB2QOV21D9HqEyYBSc3MI8acj/a18pwFi1eeVUY4VKyuQjECmfimiv&#13;
-taHKHgIT/A==</DigestValue></Reference></SignedInfo><SignatureValue>i+D4wi5dpD0QOArghG9pRZLM4SKBCE/JW+hwNGuH9OwxfwUPiEgBSKTZjkkV5+32AsdE3wGogKvI&#13;
-rUlZYHHOvmD2rTEfV4aCRxJJUaAjUjR473xFgL2uPmfIr07/HTMS+S67myrE4rtjTfW24alDOqrf&#13;
-ZI4YeeNkHF2a4yTJVL56JVcAm7El6lDTPFmQJuOP9cnKw4NvBKRi22kV1Ha3V/e3U9Vaw0OwyoFz&#13;
-XQRJ70bcSif4XP9lYdD9GRIK1kyPsj/+cRQvn2KYS4vciBsG0sNChXnt6bl+qOkQiCQnz/blsiJe&#13;
-f8m0ox8ey7kB0h8GbcGXSC19FVQZsRHQPgN9Eg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_f8bc95aa-272b-4022-aa7c-3c488a9b3f47"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>5bJwQk7Ctg5jlMZrlecgdy8ltl4unWFFGkkQ8kHlJxm51IAxkkRj+ZlO2P15nbT543HtdbNy2yRP&#13;
++jLTG8Ga6w==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_d8425ad4-8b28-4ab2-82e9-5a5c202a8054"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>8UyXIxXeba0y+5MU8pqJJCKW+IBQGY3Zr7+TMFIY+ivj2WeRP/7S3ZCNMXj1/CesA1GrWSj1LcSG&#13;
+0wPEiDsqZg==</DigestValue></Reference></SignedInfo><SignatureValue>JnLHf1JFhgrF/DO7CajAHItb1GXckvG4LWle3QElWPIqn92QFHiQ7oGe6IXNcpj1mLxey53+xZzN&#13;
+bvnzyhRL+UJP6PX1bIdjAmTjZU8diRMpeDQILzMqIq9TlCUbYmvODXPWkrqJkcmBrvP0pjysAZaF&#13;
+ed/ZLf742qOahNxSg1dNgUV/EPAu1xaLoDmDFGUXRp0NuIswFmwBL4+cCpxeT64gAUahdyFUsUAk&#13;
+RPfa7/h4ApSmMzNCJIrJmpFuudvde+lrsqmxkfXPYBUAcrLGOyQ/25OT9zqmx/SCGHphN6EIr5lA&#13;
++zJWbI2Uinroe4Gxlsg7g7WplHo51JtulIGbEQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -1552,4 +1552,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_df7ae820-223c-48a8-8c03-88cd9a080194" Target="#_c1f08e1a-275b-44a9-b7ed-ac8134dc8beb"><Timestamp>2020-06-03 19:46:13</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_d8425ad4-8b28-4ab2-82e9-5a5c202a8054" Target="#_f8bc95aa-272b-4022-aa7c-3c488a9b3f47"><Timestamp>2020-06-03 20:35:28</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>

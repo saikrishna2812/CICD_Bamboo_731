@@ -3,7 +3,7 @@
     <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="root"/>
     <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="localhost"/>
-    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:cv8oFXZ+NE3w3v7fMiJsl8EN20mi+4V0pFqvsdNa4z4="/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:4CLDGpQR+8LT8HCqkxYoW3g/vFZe90iLx+2OCRiymIo="/>
     <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="test"/>
     <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="3306"/>
   </context>
@@ -11,7 +11,7 @@
     <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="root"/>
     <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="localhost"/>
-    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:ezWNhX3VU8M0wdDXgH8REL2MnyTsWHKIx4w+XgueJvc="/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:PVjp5Dg+6droHXsGvDctRfhCAL9UzhmHVEuYAMHliXg="/>
     <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="test"/>
     <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="3306"/>
   </context>
@@ -19,7 +19,7 @@
     <contextParameter comment="" name="Test_Login" prompt="Test_Login?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="root"/>
     <contextParameter comment="" name="Test_AdditionalParams" prompt="Test_AdditionalParams?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="noDatetimeStringSync=true"/>
     <contextParameter comment="" name="Test_Server" prompt="Test_Server?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="localhost"/>
-    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:3jX6UycvWx4yk5aXCdk6Q1PcDDHhvg6tSR5u8eIxnsI="/>
+    <contextParameter comment="" name="Test_Password" prompt="Test_Password?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_Password" value="enc:system.encryption.key.v1:oasvgbUjzFDd1aYvzieqx1zbCfZL7d5fg+GlAzzKIJQ="/>
     <contextParameter comment="" name="Test_Database" prompt="Test_Database?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="test"/>
     <contextParameter comment="" name="Test_Port" prompt="Test_Port?" promptNeeded="false" repositoryContextId="_dsAZ4G-WEeqcU-zWF3Xozg" type="id_String" value="3306"/>
   </context>
@@ -65,7 +65,7 @@
     <elementParameter field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:YHJrPB+NatlEyV2CYkfPivXRcBxi11bOuheeFFXs"/>
+    <elementParameter field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" show="false" value="enc:system.encryption.key.v1:AnGPVHYHsVDQ0QybcYvcnbn4oJTD1uSBXlhHcWaM"/>
     <elementParameter field="FILE" name="DBFILE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" show="false" value="&quot;&quot;"/>
@@ -100,7 +100,7 @@
     <elementParameter field="TEXT" name="PROPERTIES" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="SCHEMA_DB" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:uP8V0pqzMDGahmfP3zVvd85LrHhFPlRRHUzilcgM"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:XVpb8TzVW8dIMEAiLzyyxlkJ2AhGdjwsZg2F5Rau"/>
     <elementParameter field="FILE" name="DBFILE" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_STATS" show="false" value="&quot;&quot;"/>
     <elementParameter field="DBTABLE" name="TABLE_LOGS" show="false" value="&quot;&quot;"/>
@@ -147,7 +147,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.Test_Database"/>
     <elementParameter field="TEXT" name="TYPE" show="false" value="MYSQL"/>
     <elementParameter field="TEXT" name="USER" value="context.Test_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:g2Y1RwJHsvAZYHkhSuGmYxID9bSz5/CQibAqslvXZXyEnjIB0tIgtqW9cVxpKAstkQ=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:uEl3ATG6uG0KXV6hS6RQH5PURjrFMAFKdk3kC6AqU/aPPvB1zixG4oNk8ilN49PrSw=="/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" show="false" value="REPOSITORY"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" show="false" value="_liROIEz9EeqpsZC_0r2MSA - customerscleandata"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;customerscleandata&quot;"/>
@@ -702,7 +702,7 @@
     <elementParameter field="TEXT" name="PORT" value="context.Test_Port"/>
     <elementParameter field="TEXT" name="DBNAME" value="context.Test_Database"/>
     <elementParameter field="TEXT" name="USER" value="context.Test_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:JDGsLxaYBv8uZaf82XGPpsBPfnne1NMLDWEuB3FDKG7z/ajofht5m5qVrfrkSOsv5w=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:7e/EvuloV8HsGq5JIwGde0Ja6cuDIsVM/tEhXFFdLjzHKARKA723TBc8qECzw40rFg=="/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;ValidCustomers&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="CREATE_IF_NOT_EXISTS"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -868,7 +868,7 @@
     <elementParameter field="TEXT" name="PORT" show="false" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:LZbmRRpwsfqQ4UTlIjbhbrdW4ATT7S5MNqH2wpDn"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:fiQEpmOvvUSIdTqf1hDueoe/oLSWsdwZEpTy9HDM"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;firstname_null&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="DROP_IF_EXISTS_AND_CREATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -953,71 +953,71 @@
     <elementParameter field="CHECK" name="SUPPORT_NULL_WHERE" show="false" value="false"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tDBOutput_3">
-      <column comment="text" key="false" length="-1" name="FirstName" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="FirstName" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="FirstName"/>
       </column>
-      <column comment="text" key="false" length="-1" name="LastName" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="LastName" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="LastName"/>
       </column>
-      <column comment="text" key="false" length="-1" name="PhoneNumber" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="PhoneNumber" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="PhoneNumber"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Email" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Email" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Email"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Gender" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Gender" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Gender"/>
       </column>
-      <column comment="integer" key="false" length="-1" name="Age" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_Integer" usefulColumn="true">
+      <column comment="integer" key="false" length="-1" name="Age" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Age"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Street1" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Street1" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Street1"/>
       </column>
-      <column comment="text" key="false" length="-1" name="City" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="City" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="City"/>
       </column>
-      <column comment="text" key="false" length="-1" name="State" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="State" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="State"/>
       </column>
-      <column comment="integer" key="false" length="-1" name="ZipCode" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_Integer" usefulColumn="true">
+      <column comment="integer" key="false" length="-1" name="ZipCode" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="ZipCode"/>
       </column>
-      <column key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+      <column key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
     </metadata>
     <metadata connector="REJECT" name="REJECT">
-      <column comment="text" key="false" length="-1" name="FirstName" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="FirstName" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="FirstName"/>
       </column>
-      <column comment="text" key="false" length="-1" name="LastName" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="LastName" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="LastName"/>
       </column>
-      <column comment="text" key="false" length="-1" name="PhoneNumber" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="PhoneNumber" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="PhoneNumber"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Email" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Email" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Email"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Gender" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Gender" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Gender"/>
       </column>
-      <column comment="integer" key="false" length="-1" name="Age" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_Integer" usefulColumn="true">
+      <column comment="integer" key="false" length="-1" name="Age" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Age"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Street1" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Street1" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Street1"/>
       </column>
-      <column comment="text" key="false" length="-1" name="City" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="City" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="City"/>
       </column>
-      <column comment="text" key="false" length="-1" name="State" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="State" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="State"/>
       </column>
-      <column comment="integer" key="false" length="-1" name="ZipCode" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_Integer" usefulColumn="true">
+      <column comment="integer" key="false" length="-1" name="ZipCode" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="ZipCode"/>
       </column>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
-      <column key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="" type="id_String" usefulColumn="true"/>
+      <column key="false" length="255" name="errorMessage" nullable="true" originalLength="-1" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
     </metadata>
   </node>
   <node componentName="tMysqlOutput" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="704" posY="256">
@@ -1030,7 +1030,7 @@
     <elementParameter field="TEXT" name="PORT" show="false" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DBNAME" show="false" value="&quot;&quot;"/>
     <elementParameter field="TEXT" name="USER" show="false" value="&quot;&quot;"/>
-    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:+TfCjmXr46KSQgn34BN2F9EtcJvGokF1rnhMvyns"/>
+    <elementParameter field="PASSWORD" name="PASS" show="false" value="enc:system.encryption.key.v1:5cXKW8ekEaetd0080L7LJfZUCSflbp9SS8cPuSWz"/>
     <elementParameter field="DBTABLE" name="TABLE" value="&quot;invalid_emails_firstnames&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="DROP_IF_EXISTS_AND_CREATE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
@@ -1110,66 +1110,66 @@
     <elementParameter field="CHECK" name="SUPPORT_NULL_WHERE" show="false" value="false"/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tDBOutput_2">
-      <column comment="text" key="false" length="-1" name="FirstName" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="FirstName" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="FirstName"/>
       </column>
-      <column comment="text" key="false" length="-1" name="LastName" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="LastName" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="LastName"/>
       </column>
-      <column comment="text" key="false" length="-1" name="PhoneNumber" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="PhoneNumber" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="PhoneNumber"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Email" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Email" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Email"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Gender" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Gender" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Gender"/>
       </column>
-      <column comment="integer" key="false" length="-1" name="Age" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_Integer" usefulColumn="true">
+      <column comment="integer" key="false" length="-1" name="Age" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Age"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Street1" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Street1" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Street1"/>
       </column>
-      <column comment="text" key="false" length="-1" name="City" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="City" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="City"/>
       </column>
-      <column comment="text" key="false" length="-1" name="State" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="State" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="State"/>
       </column>
-      <column comment="integer" key="false" length="-1" name="ZipCode" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_Integer" usefulColumn="true">
+      <column comment="integer" key="false" length="-1" name="ZipCode" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="ZipCode"/>
       </column>
     </metadata>
     <metadata connector="REJECT" name="REJECT">
-      <column comment="text" key="false" length="-1" name="FirstName" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="FirstName" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="FirstName"/>
       </column>
-      <column comment="text" key="false" length="-1" name="LastName" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="LastName" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="LastName"/>
       </column>
-      <column comment="text" key="false" length="-1" name="PhoneNumber" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="PhoneNumber" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="PhoneNumber"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Email" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Email" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Email"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Gender" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Gender" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Gender"/>
       </column>
-      <column comment="integer" key="false" length="-1" name="Age" nullable="true" originalLength="-1" pattern="" precision="-1" type="id_Integer" usefulColumn="true">
+      <column comment="integer" key="false" length="-1" name="Age" nullable="true" originalLength="-1" pattern="" precision="-1" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Age"/>
       </column>
-      <column comment="text" key="false" length="-1" name="Street1" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="Street1" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="Street1"/>
       </column>
-      <column comment="text" key="false" length="-1" name="City" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="City" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="City"/>
       </column>
-      <column comment="text" key="false" length="-1" name="State" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_String" usefulColumn="true">
+      <column comment="text" key="false" length="-1" name="State" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="VARCHAR" type="id_String" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="State"/>
       </column>
-      <column comment="integer" key="false" length="-1" name="ZipCode" nullable="false" originalLength="-1" pattern="" precision="-1" type="id_Integer" usefulColumn="true">
+      <column comment="integer" key="false" length="-1" name="ZipCode" nullable="false" originalLength="-1" pattern="" precision="-1" sourceType="INT" type="id_Integer" usefulColumn="true">
         <additionalField key="AVRO_TECHNICAL_KEY" value="ZipCode"/>
       </column>
       <column defaultValue="" key="false" length="255" name="errorCode" nullable="true" originalLength="-1" precision="0" sourceType="VARCHAR" type="id_String" usefulColumn="true"/>
@@ -1222,7 +1222,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="context.Test_Database"/>
     <elementParameter field="TEXT" name="PROPERTIES" value="context.Test_AdditionalParams"/>
     <elementParameter field="TEXT" name="USER" value="context.Test_Login"/>
-    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:DMsV8LthPdf1bKSA4mF+4Xpo3fkfcKopoWc5CItnwuL8YzbXFS/e2Sr1u6+tr+KY0w=="/>
+    <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:ULqMDqQ/jw5FLtUFuHgeCgd4J1kj4v5e8MvBUaKdivqds6VR9cT+TZLw6c36djUWsQ=="/>
     <elementParameter field="ENCODING_TYPE" name="ENCODING" show="false" value="&quot;ISO-8859-15&quot;"/>
     <elementParameter field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15"/>
     <elementParameter field="CHECK" name="USE_SHARED_CONNECTION" value="false"/>
@@ -1379,13 +1379,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_9ea9147c-6769-4be3-835d-ef286cc26ad0"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>d2XtkwGmFw/9B6Ys7lUaYQiF3n6Bc3cY+rWUci1JDa3B8DA1S8AZeovKUVnkOoPSLH8wUZzLrL0x&#13;
-+quKdQpUCQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_cbfb971f-1bcd-4eac-be1d-d0e01d50e7e4"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>JcRSMofQ5TbS7XRqS8kLLSEm1ZvnstujUoktjefXDaUplhGMxVym2ZHP2RMaBweE5BuMd5kXohBf&#13;
-2/16JiL14A==</DigestValue></Reference></SignedInfo><SignatureValue>IhAImCfgR7yQbSUfbP2sx6sXjcheLxKKtPcaR90XAQZ/OoDgKpzHCNzb1W/o43NyWIlVULFfPJmO&#13;
-qYbC0GIvNa4YzaMgvSaIPRVUtFoJHUQb6mAZuEFMW4lsJ9LnlSRx70aeR89Jg9OSDz9YoA/hv01L&#13;
-wHEwR7/8gyQ9fcz4Ii+lq58dbIdsTylbmVxOvJDzTG6fusNTzk2evtSTI5rd9jxLXT6B5BKvRmdo&#13;
-xkNCwgFP5VPHd3Yoi/foZxEDdyb//fo3sK0FfpCXHk1ksWgThJgbVb1j838jGv432NgSfNWD9mGe&#13;
-kkiyzmaI0xiB7A2I7/4yMWRO6WNJXZZfd5ahXA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_5684950a-a953-428e-9578-df256f9b57d9"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>NKw08oiNS3rhLpTGgHR5mIqNu0k5vM7k3MgPyVwdXRkX6Agq00OQ4VEtobLN5zTbLyVwia2Tj/7F&#13;
+vqyJbTcp1A==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_4a7225b5-2116-4a3a-8a00-0c2d37f2291d"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>WF8FSGpZwUEFnhC1qrMgV4XMULVAHIngryDlNH7HnUF5vc4M4fQJp1wHi/MQuDO2STuNyfilc5VU&#13;
+fEmAqJIL6Q==</DigestValue></Reference></SignedInfo><SignatureValue>XxAx1zcsRLc3mbLlZCbY0krQnpWCrlVZZvPpWHIvEAeAlex0bvQIW/n0KSu2OaID4f1kXFtN7+UR&#13;
+kZdpouUsrBNo+oqF3H4vmOpi/iPz2fNq+qFiUZgECz1OQtRijqD5AoutPPXD9hFnkT2CI2b+lYas&#13;
+0CHH/IUZOEwwbK2t8srxqb36zNnuH42QxgqC2lwVvm9ourHHxqnO2B1ijIfwRjOUVY6KL6BmhHUp&#13;
+9qWeDWxbychaITblZ5SVYJ+mELCNqQbSHusWI4DYOknNc9I7wAkbqPkFExVhd8nboenjuOVbkEpZ&#13;
++GLibGKKk1ZkDMQIyg41bwODHDn8StI4+uQh6w==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
@@ -1407,4 +1407,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_cbfb971f-1bcd-4eac-be1d-d0e01d50e7e4" Target="#_9ea9147c-6769-4be3-835d-ef286cc26ad0"><Timestamp>2020-06-03 18:32:22</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_4a7225b5-2116-4a3a-8a00-0c2d37f2291d" Target="#_5684950a-a953-428e-9578-df256f9b57d9"><Timestamp>2020-06-03 18:33:10</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
